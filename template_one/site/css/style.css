@@ -5876,8 +5876,8 @@ html.tablet .ui-to-top {
 	height: 48px;
 	line-height: 48px;
 	cursor: pointer;
-	color: #cccccc;
-	background-color: #2c343b;
+	color: #2c343b;
+	background-color: #cccccc;
 	border: none;
 	display: none;
 }
@@ -6461,7 +6461,7 @@ html.tablet .ui-to-top {
 	top: 0;
 	right: 0;
 	z-index: 1090;
-	background: #404044;
+	background: white;
 }
 
 .rd-navbar-static .rd-navbar--has-dropdown {
