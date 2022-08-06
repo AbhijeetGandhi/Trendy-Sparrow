@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "useSmtp": false,
   "host": "stmp.gmail.com",
@@ -6,3 +7,13 @@
   "password": "demopassword",
   "recipientEmail": "demo@gmail.com"
 }
+=======
+{
+  "useSmtp": false,
+  "host": "stmp.gmail.com",
+  "port": 465,
+  "username": "demo@gmail.com",
+  "password": "demopassword",
+  "recipientEmail": "demo@gmail.com"
+}
+>>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
