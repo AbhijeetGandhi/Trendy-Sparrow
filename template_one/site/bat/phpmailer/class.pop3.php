@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 /**
  * PHPMailer POP-Before-SMTP Authentication Class.
@@ -396,7 +396,7 @@ class POP3
         ));
     }
 }
-=======
+
 <?php
 /**
  * PHPMailer POP-Before-SMTP Authentication Class.
@@ -794,4 +794,4 @@ class POP3
         ));
     }
 }
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+

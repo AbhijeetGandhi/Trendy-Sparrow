@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head> 
@@ -194,7 +194,7 @@
       </tr>
     </table>
   </body>
-=======
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head> 
@@ -390,5 +390,5 @@
       </tr>
     </table>
   </body>
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+
 </html>

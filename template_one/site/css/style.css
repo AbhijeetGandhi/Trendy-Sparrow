@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @charset "UTF-8";
 /*
 * Trunk version 2.0.1
@@ -7338,7 +7338,7 @@ html.rd-navbar-fixed-linked .page {
 /**
 *
 * RD Navbar Classic
-* =====================================================
+* ====
 */
 .rd-navbar-classic.rd-navbar-static .rd-navbar-aside-outer,
 .rd-navbar-classic.rd-navbar-static .rd-navbar-main-outer {
@@ -8837,7 +8837,7 @@ html.rd-navbar-fixed-linked .page {
 	top: 24%;
 	left: 19.5%;
 }
-=======
+
 @charset "UTF-8";
 /*
 * Trunk version 2.0.1
@@ -16177,7 +16177,7 @@ html.rd-navbar-fixed-linked .page {
 /**
 *
 * RD Navbar Classic
-* =====================================================
+* ====
 */
 .rd-navbar-classic.rd-navbar-static .rd-navbar-aside-outer,
 .rd-navbar-classic.rd-navbar-static .rd-navbar-main-outer {
@@ -17676,4 +17676,4 @@ html.rd-navbar-fixed-linked .page {
 	top: 24%;
 	left: 19.5%;
 }
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+

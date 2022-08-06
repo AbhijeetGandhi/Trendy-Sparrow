@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 // Initiate the autoloader.
 require_once 'ReCaptcha/autoload.php';
@@ -33,7 +33,7 @@ elseif (isset($_POST['g-recaptcha-response'])):
 
 endif;
 ?>
-=======
+
 <?php
 // Initiate the autoloader.
 require_once 'ReCaptcha/autoload.php';
@@ -68,4 +68,4 @@ elseif (isset($_POST['g-recaptcha-response'])):
 
 endif;
 ?>
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+

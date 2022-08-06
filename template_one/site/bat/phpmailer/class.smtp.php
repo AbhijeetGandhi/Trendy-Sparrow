@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 /**
  * PHPMailer RFC821 SMTP email transport class.
@@ -1134,7 +1134,7 @@ class SMTP
         return $this->Timeout;
     }
 }
-=======
+
 <?php
 /**
  * PHPMailer RFC821 SMTP email transport class.
@@ -2270,4 +2270,4 @@ class SMTP
         return $this->Timeout;
     }
 }
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+

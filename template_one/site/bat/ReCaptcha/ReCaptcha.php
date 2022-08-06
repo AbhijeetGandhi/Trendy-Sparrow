@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 /**
  * This is a PHP library that handles calling reCAPTCHA.
@@ -96,7 +96,7 @@ class ReCaptcha
         return Response::fromJson($rawResponse);
     }
 }
-=======
+
 <?php
 /**
  * This is a PHP library that handles calling reCAPTCHA.
@@ -194,4 +194,4 @@ class ReCaptcha
         return Response::fromJson($rawResponse);
     }
 }
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+

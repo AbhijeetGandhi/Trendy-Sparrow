@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 if (!isset($_GET['s'])) {
   die('You must define a search term!');
@@ -215,7 +215,7 @@ function strpos_recursive($haystack, $needle, $offset = 0, &$results = array())
   }
 }
 
-=======
+
 <?php
 if (!isset($_GET['s'])) {
   die('You must define a search term!');
@@ -432,5 +432,5 @@ function strpos_recursive($haystack, $needle, $offset = 0, &$results = array())
   }
 }
 
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+
 ?>

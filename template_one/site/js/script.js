@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "use strict";
 (function () {
 	// Global variables
@@ -1096,7 +1095,7 @@
 		}
 	});
 }());
-=======
+
 "use strict";
 (function () {
 	// Global variables
@@ -2194,4 +2193,4 @@
 		}
 	});
 }());
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 /**
  * PHPMailer - PHP email creation and transport class.
@@ -3517,7 +3517,7 @@ class phpmailerException extends Exception
         return $errorMsg;
     }
 }
-=======
+
 <?php
 /**
  * PHPMailer - PHP email creation and transport class.
@@ -7036,4 +7036,4 @@ class phpmailerException extends Exception
         return $errorMsg;
     }
 }
->>>>>>> 3f6c9a63b3cde836ff92b5e04f92d15fb7c28972
+
