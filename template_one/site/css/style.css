@@ -5495,7 +5495,7 @@ html [class*='section-'].section-bottom-0 {
 	}
 	.devider-bottom:after {
 		width: 393px;
-		left: -175px;
+		/*left: -175px;*/
 		display: block;
 	}
 }
@@ -8850,4 +8850,19 @@ html.rd-navbar-fixed-linked .page {
 	font-size: 300%;
 	color: #ff5ea1;
 	font-stretch: inherit;
+	margin-left: -10%;
+}
+
+img {
+	border: 1px solid;
+	border-radius: 10%;
+	border-width: 10%;
+	border-style: hidden;
+}
+
+#whyweimg:hover {
+	border: 2px;
+	border-style:solid rgb(233, 75, 123);
+	transform: scale(1.1);
+	transition-duration: 0.5s;
 }
