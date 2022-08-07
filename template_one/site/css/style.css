@@ -6167,14 +6167,15 @@ html.tablet .ui-to-top {
 
 .rd-navbar-static .rd-nav-link {
 	position: relative;
-	font-family: "Poppins", sans-serif;
+	font-family: 'New Century Schoolbook, TeX Gyre Schola, serif';
 	display: inline-block;
 	padding-bottom: 10px;
-	color: #000000;
+	color: #f836a7;
 	font-size: 12px;
 	line-height: 1.2;
 	transition: .25s;
 	text-transform: uppercase;
+	font-size: 120%;
 }
 
 .rd-navbar-static .rd-nav-link:before {
@@ -8837,4 +8838,15 @@ html.rd-navbar-fixed-linked .page {
 .layer-6 {
 	top: 24%;
 	left: 19.5%;
+}
+
+.h3-text-center{
+	font-family: 'Snell Roundhand, cursive';
+	text-align: center;
+	align-items: center;	
+	font-style: italic;
+	font-weight: bold;
+	font-size: 300%;
+	color: #ff5ea1;
+	font-stretch: inherit;
 }
