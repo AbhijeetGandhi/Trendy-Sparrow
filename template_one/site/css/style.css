@@ -8896,3 +8896,46 @@ img:hover{
 	transform: scale(1.1);
 	transition-duration: 0.5s;
 }
+
+#facebook {
+    border-radius:50%;
+    height: 26px;
+    width: 26px;
+    line-height: 26px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 6px;
+	background:rgb(88, 137, 241); color:white;
+}
+#insta {
+	background:red;
+    border-radius:50%;
+    height: 26px;
+    width: 26px;
+    line-height: 26px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 6px;
+	background:rgb(252, 86, 141); color:white;
+}
+
+#facebook:hover {
+	transform: scale(1.8);
+	transition-duration: 0.3s;
+}
+#insta:hover {
+	transform: scale(1.8);
+	transition-duration: 0.3s;
+}
+
+#about-us-text:hover {
+	transform: scale(1.2);
+	transition-duration: 0.3s;
+	color:black;
+}
+
+.box-default:hover {
+	transform: scale(1.2);
+	transition-duration: 0.3s;
+	color:black;
+}
