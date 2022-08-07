@@ -8859,10 +8859,15 @@ img {
 	border-width: 10%;
 	border-style: hidden;
 }
-
+img:hover{
+	transform: scale(1.1);
+	transition-duration: 0.5s;
+	transition-timing-function: ease-in-out;
+}
 #whyweimg:hover {
 	border: 2px;
 	border-style:solid rgb(233, 75, 123);
 	transform: scale(1.1);
 	transition-duration: 0.5s;
+	
 }
